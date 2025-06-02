@@ -11,7 +11,7 @@
 | Dark Mode Screens |
 |-------------------|
 | ![Chat 1](assets/screenshots/dark_chat.png) |
-| ![Chat 2](assets/screenshots/dark_chat_2.png) |
+| ![Chat 2](assets/screenshots/darkl_chat_2.png) |
 | ![Chat 3](assets/screenshots/dark_caht_3.png) |
 
 ---
